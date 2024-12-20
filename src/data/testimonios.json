@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Gloria Expin",
+        "pais":"Argentina",
+        "imagen":"gloria",
+        "cargo":"Ingeniera de Software",
+        "empresa":"Google",
+        "testimonio": "La transición a una nueva carrera siempre presenta desafíos, pero encontré un camino claro a través del aprendizaje estructurado. Con cientos de horas de formación en áreas clave ***como desarrollo web, algoritmos y estructuras de datos,*** adquirí las habilidades necesarias para destacar en la industria. Este enfoque práctico y autodirigido me permitió, en menos de un año, asegurar un puesto como ingeniero de software con un salario competitivo de seis cifras. El curso fue fundamental para mi desarrollo profesional."
+   },
+    {
+        "nombre":"Pamela Kupik",
+        "pais":"México",
+        "imagen":"pamela",
+        "cargo":"Ingeniera de Software",
+        "empresa":"Claro",
+        "testimonio":"El curso fue el punto de partida para mi carrera como desarrollador de software. Su plan de estudios estructurado me permitió dominar tecnologías fundamentales como **HTML, CSS, JavaScript, Node.js y React,** además de conceptos clave como algoritmos, estructuras de datos y diseño responsivo. A través de proyectos prácticos y desafíos, construí un portafolio sólido que me ayudó a destacar en entrevistas técnicas. Este aprendizaje integral me permitió obtener mi primer puesto como desarrollador en una empresa reconocida, donde pude aplicar estas habilidades desde el primer día."
+    
+    },
+    {
+        "nombre":"Lorena Mintz",
+        "pais":"EEUU",
+        "imagen":"lorena",
+        "cargo":"Ingeniera de Software",
+        "empresa":"YouTube",
+        "testimonio":"Siempre encontré ***JavaScript*** un desafío, incluso después de tomar numerosos cursos. Sin embargo, el plan de estudios cambió por completo mi experiencia. Su enfoque práctico me permitió no solo aprender JavaScript a profundidad, sino también dominar conceptos esenciales como closures, manejo de promesas, y programación orientada a objetos. Además, trabajé en proyectos reales como un generador de citas aleatorias, un juego de trivia interactivo y un clon funcional de una calculadora, que consolidaron mis habilidades técnicas."
+      
+    }
+]
