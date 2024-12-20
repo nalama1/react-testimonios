@@ -10,6 +10,7 @@ function App() {
       <div className="contenedor-principal">
         <h2> Esto es lo que dicen nuestros alumnos sobre el curso:</h2>
         {
+          //Recorrer objeto Json: testimoniosData
           testimoniosData.map((testimonio, index) => (
             <Testimonio
               key={index}

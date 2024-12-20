@@ -16,7 +16,7 @@ function Testimonio(props) {
                 className="imagen-testimonio"
                 //src={require('../imagenes/testimonio-emma.png')} // esto es fijo
                 src={require(`../imagenes/testimonio-${props.imagen}.png`)} // esto es DINAMICO                
-                alt={`Foto de ${props.nombre}`}
+                alt={`Foto de ${props.nombre}`} // Plantillas Literales
             />
             <div className='contenedor-texto-testimonio'>
                 <p className="nombre-testimonio">
